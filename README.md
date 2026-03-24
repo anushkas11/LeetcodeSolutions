@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 <!---LeetCode Topics End-->
