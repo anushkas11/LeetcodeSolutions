@@ -35,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
