@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
