@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
