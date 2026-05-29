@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
