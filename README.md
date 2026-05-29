@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3163-string-compression-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3163-string-compression-iii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
