@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
 ## Monotonic Stack
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
