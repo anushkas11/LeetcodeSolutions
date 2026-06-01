@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [1200-minimum-absolute-difference](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [1200-minimum-absolute-difference](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
