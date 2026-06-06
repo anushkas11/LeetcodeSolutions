@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2574-left-and-right-sum-differences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3788-maximum-score-of-a-split](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3788-maximum-score-of-a-split) |
