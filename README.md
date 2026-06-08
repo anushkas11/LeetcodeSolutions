@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1861-rotating-the-box](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0520-detect-capital) |
