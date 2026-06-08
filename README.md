@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1861-rotating-the-box](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
