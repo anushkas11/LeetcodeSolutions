@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0396-rotate-function](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
