@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0520-detect-capital) |
