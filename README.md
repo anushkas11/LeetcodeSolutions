@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
