@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
