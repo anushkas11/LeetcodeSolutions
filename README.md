@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
