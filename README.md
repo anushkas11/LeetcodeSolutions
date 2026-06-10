@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3788-maximum-score-of-a-split](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3788-maximum-score-of-a-split) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
