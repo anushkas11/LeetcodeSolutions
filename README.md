@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
