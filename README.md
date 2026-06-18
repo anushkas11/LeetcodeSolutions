@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0120-triangle) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
