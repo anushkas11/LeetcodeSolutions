@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
@@ -513,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
