@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
