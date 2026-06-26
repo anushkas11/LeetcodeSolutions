@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
