@@ -587,4 +587,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0550-game-play-analysis-iv) |
+| [0610-triangle-judgement](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
