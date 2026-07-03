@@ -590,4 +590,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0550-game-play-analysis-iv) |
 | [0610-triangle-judgement](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0610-triangle-judgement) |
+| [1164-product-price-at-a-given-date](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
