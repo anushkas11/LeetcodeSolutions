@@ -583,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0550-game-play-analysis-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0550-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
