@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1907-count-salary-categories](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1907-count-salary-categories) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
