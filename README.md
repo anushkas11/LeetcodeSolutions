@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
