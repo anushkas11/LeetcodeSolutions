@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
