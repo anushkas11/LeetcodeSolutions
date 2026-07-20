@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
