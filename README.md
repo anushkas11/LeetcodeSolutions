@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3163-string-compression-iii) |
 | [3330-find-the-original-typed-string-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3330-find-the-original-typed-string-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Indexed Tree
 |  |
