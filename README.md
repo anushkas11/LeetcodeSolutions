@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Indexed Tree
 |  |
