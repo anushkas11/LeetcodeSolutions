@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0933-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -733,4 +734,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
