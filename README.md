@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
