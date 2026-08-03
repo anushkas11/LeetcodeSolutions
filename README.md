@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
