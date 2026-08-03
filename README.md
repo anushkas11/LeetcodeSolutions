@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1840-maximum-building-height](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -774,4 +777,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
