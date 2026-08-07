@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
