@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3163-string-compression-iii) |
 | [3330-find-the-original-typed-string-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3330-find-the-original-typed-string-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
 | ------- |
