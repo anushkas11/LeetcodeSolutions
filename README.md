@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
