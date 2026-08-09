@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0441-arranging-coins) |
