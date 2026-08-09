@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
+| [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
