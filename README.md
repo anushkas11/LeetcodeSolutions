@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
