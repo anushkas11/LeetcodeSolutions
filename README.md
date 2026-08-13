@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2716-minimize-string-length](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2716-minimize-string-length) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
