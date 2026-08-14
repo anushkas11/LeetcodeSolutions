@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
