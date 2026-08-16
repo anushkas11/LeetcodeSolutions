@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0686-repeated-string-match) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
