@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
