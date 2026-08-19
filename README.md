@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1051-height-checker) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
 |  |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -831,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -934,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -951,4 +958,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
