@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
