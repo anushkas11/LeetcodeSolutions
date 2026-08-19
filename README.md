@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3612-process-string-with-special-operations-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
