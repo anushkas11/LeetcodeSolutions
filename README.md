@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -806,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 ## Memoization
 |  |
@@ -822,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -924,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
