@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
