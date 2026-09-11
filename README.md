@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3457-eat-pizzas](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3457-eat-pizzas) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
