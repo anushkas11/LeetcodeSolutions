@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
