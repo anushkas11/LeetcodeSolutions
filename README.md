@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0622-design-circular-queue) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
