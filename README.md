@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3310-remove-methods-from-project) |
