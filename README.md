@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0409-longest-palindrome) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0933-number-of-recent-calls) |
