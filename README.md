@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0881-boats-to-save-people) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
