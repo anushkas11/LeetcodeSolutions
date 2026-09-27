@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0338-counting-bits) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
