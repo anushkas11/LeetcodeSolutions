@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0120-triangle) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0494-target-sum) |
