@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0322-coin-change) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0649-dota2-senate) |
@@ -1282,4 +1286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
