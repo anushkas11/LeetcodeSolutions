@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -957,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
