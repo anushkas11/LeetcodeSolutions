@@ -1327,4 +1327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
