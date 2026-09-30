@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1268-search-suggestions-system) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## K-D Tree
 |  |
 | ------- |
