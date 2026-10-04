@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0740-delete-and-earn) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0835-image-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0981-time-based-key-value-store) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
