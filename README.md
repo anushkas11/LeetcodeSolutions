@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1323-maximum-69-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -1313,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## K-D Tree
 |  |
 | ------- |
