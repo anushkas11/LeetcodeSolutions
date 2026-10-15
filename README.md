@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1051-height-checker) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0997-find-the-town-judge) |
 | [1096-brace-expansion-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -1235,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
