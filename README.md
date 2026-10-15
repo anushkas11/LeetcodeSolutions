@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
