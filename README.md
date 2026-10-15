@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anushkas11/LeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushkas11/LeetcodeSolutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
