@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1254-number-of-closed-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
@@ -1016,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/anushkas11/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anushkas11/LeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
